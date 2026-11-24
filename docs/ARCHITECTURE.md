@@ -1,6 +1,6 @@
 # CLG (Context Freeze v1): architecture and decision record
 
-The constraint: nothing is inferred, sent or saved until you approve the exact redacted preview, and no command ever runs.
+The constraint: nothing is inferred, sent or saved until you approve the exact redacted preview, and no generated next-step command is executed.
 
 ## System walk
 
