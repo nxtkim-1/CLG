@@ -12,7 +12,7 @@ both interfaces.
 
 ## Architecture
 
-The constraint this project is built around: **nothing is inferred, sent or saved until you approve the exact redacted preview, and no command ever runs.**
+The constraint this project is built around: **nothing is inferred, sent or saved until you approve the exact redacted preview, and no generated next-step command is executed.**
 
 ```mermaid
 %%{init: {"theme": "base", "themeVariables": {"primaryColor": "#f2f5ff", "primaryBorderColor": "#445566", "primaryTextColor": "#111111", "lineColor": "#333333", "fontSize": "15px"}}}%%
